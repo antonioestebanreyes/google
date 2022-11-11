@@ -1,0 +1,23 @@
+{
+  "name": "google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioestebanreyes/google.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonioestebanreyes/google/issues"
+  },
+  "homepage": "https://github.com/antonioestebanreyes/google#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
